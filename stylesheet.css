@@ -1,0 +1,142 @@
+
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Lucida Grande";
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.top-wrapper {
+  padding: 550px 0 100px 0;
+  background-image: url(picture/Y982417045.jpg);
+  background-size: cover;
+  color: white;
+  text-align: left;
+}
+
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
+
+.top-wrapper h1 {
+  opacity: 0.9;
+  font-size: 60px;
+  letter-spacing: 4px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  opacity: 0.9;
+  margin-bottom: 10px;
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+.email {
+  background-color: #da0e0e;
+  margin-right: 10px;
+}
+.promo {
+    background-color: #e21593;
+  }
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+.traveloka{
+    background-color: #6f94e2;
+    margin-right: 10px;
+      
+}
+
+.tokopedia{
+  background-color: #08e451;
+  margin-right: 10px;
+}
+
+.shopee{
+    background-color: #eb5f0e;
+    margin-right: 10px;
+  }
+.btn {
+  padding: 15px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 1.0;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.logo {
+  width: 100px;
+  margin-top: 2px;
+}
+
+.header-left {
+  float: left;
+}
+
+.header-right {
+  float: right;
+  background-color: rgba(218, 204, 12, 0.705);
+  transition: all 0.5s;
+}
+
+.header-right:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+}
+.under-wrapper{
+ padding: 180px 0 120px 0;
+  background-size: contain;
+  color: white;
+  text-align: left;
+
+}
+.container{
+    width: 1170px;
+  margin: 0 auto;
+}
