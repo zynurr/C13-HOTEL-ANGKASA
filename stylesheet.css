@@ -475,9 +475,9 @@ body{
 }
 
 footer p {
-  color: #2d3436;
-  font-size: 25px;
-  align-text: center;
+  color:#2d3436;
+  font-size:20px;
+  text-align:center;
 }
 
 footer {
