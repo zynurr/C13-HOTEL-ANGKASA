@@ -474,15 +474,12 @@ body{
   background:#fff;
 }
 
-footer img {
-  width: 124px;
-}
-
 footer p {
   color: #b3aeb5;
   font-size: 18px;
 }
 
 footer {
+  background-color: #dfe6e9;
   padding-top: 30px;
 }
