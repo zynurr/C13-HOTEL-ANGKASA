@@ -475,8 +475,9 @@ body{
 }
 
 footer p {
-  color: #e17055;
-  font-size: 20px;
+  color: #2d3436;
+  font-size: 25px;
+  align-text: center;
 }
 
 footer {
