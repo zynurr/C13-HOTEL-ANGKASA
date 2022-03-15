@@ -194,6 +194,7 @@ header {
   border-bottom:0;
   position:absolute;
   bottom:0;
+  z-index: 2;
 }
 
 /* Contents */
@@ -211,6 +212,7 @@ header {
   top:300px;
   -webkit-animation:content-s 7.5s infinite;
   animation:content-s 7.5s infinite;
+  z-index:3;
 }
 .content-txt h2{
   font-family:Arial;
@@ -292,32 +294,32 @@ header {
     margin-left:-300%;
   }
 }
-@keyframes slide{
-  0%,100%{
-    margin-left:0%;
-  }
-  21%{
-    margin-left:0%;
-  }
-  25%{
-    margin-left:-100%;
-  }
-  46%{
-    margin-left:-100%;
-  }
-  50%{
-    margin-left:-200%;
-  }
-  71%{
-    margin-left:-200%;
-  }
-  75%{
-    margin-left:-300%;
-  }
-  96%{
-    margin-left:-300%;
-  }
-}
+
+
+    
+ 
+
+
+
+
+ 
+
+
+    
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
 @keyframes slide{
   0%,100%{
     margin-left:0%;
